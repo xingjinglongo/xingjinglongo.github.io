@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-08-10T01:47:35.671Z</updated>
+  <updated>2023-11-01T07:27:29.977Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,35 +21,15 @@
     <link href="http://example.com/2023/11/01/%E5%AE%9E%E8%B7%B5%E8%AE%BA/"/>
     <id>http://example.com/2023/11/01/%E5%AE%9E%E8%B7%B5%E8%AE%BA/</id>
     <published>2023-11-01T07:02:45.383Z</published>
-    <updated>2023-08-10T01:47:35.671Z</updated>
+    <updated>2023-11-01T07:27:29.977Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;实践论&quot;&gt;&lt;a href=&quot;#实践论&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://example.com/2023/11/01/read/"/>
-    <id>http://example.com/2023/11/01/read/</id>
-    <published>2023-11-01T03:07:13.482Z</published>
-    <updated>2023-10-18T14:28:34.403Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;read-plans&quot;&gt;&lt;a href=&quot;#read-plans&quot; class=&quot;headerlink&quot; title=&quot;read-plans&quot;&gt;&lt;/a&gt;read-plans&lt;/h1&gt;&lt;h3 id=&quot;逻辑学&quot;&gt;&lt;a href=&quot;#逻辑学&quot;</summary>
+    <summary type="html">&lt;p&gt;title: 标题&lt;br&gt;tags: [标签1,标签2]&lt;br&gt;categories: [分类]&lt;br&gt;index_img: 主页封面图的相对路径&lt;br&gt;date: 2023-8-25 18:03:07&lt;/p&gt;
+&lt;h1 id=&quot;实践论&quot;&gt;&lt;a href=&quot;#实践论&quot;</summary>
         
       
     
@@ -63,7 +43,7 @@
     <link href="http://example.com/2023/08/25/1/"/>
     <id>http://example.com/2023/08/25/1/</id>
     <published>2023-08-25T10:03:07.000Z</published>
-    <updated>2023-11-01T01:54:11.820Z</updated>
+    <updated>2023-11-01T07:27:12.900Z</updated>
     
     
     
