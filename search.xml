@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title></title>
+    <title>实践论</title>
     <url>/2023/11/01/%E5%AE%9E%E8%B7%B5%E8%AE%BA/</url>
-    <content><![CDATA[<p>title: 标题<br>tags: [标签1,标签2]<br>categories: [分类]<br>index_img: 主页封面图的相对路径<br>date: 2023-8-25 18:03:07</p>
-<h1 id="实践论"><a href="#实践论" class="headerlink" title="实践论"></a>实践论</h1><center>论认识和实践的关系——知和行的关系</center>
+    <content><![CDATA[<h1 id="实践论"><a href="#实践论" class="headerlink" title="实践论"></a>实践论</h1><center>论认识和实践的关系——知和行的关系</center>
 
 <center>一九三七年七月</center>
 
@@ -108,17 +107,11 @@
 </ol>
 </blockquote>
 ]]></content>
-  </entry>
-  <entry>
-    <title>标题</title>
-    <url>/2023/08/25/1/</url>
-    <content><![CDATA[]]></content>
       <categories>
-        <category>分类</category>
+        <category>哲学</category>
       </categories>
       <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
+        <tag>哲学</tag>
       </tags>
   </entry>
 </search>
