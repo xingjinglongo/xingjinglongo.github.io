@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>应无所住，而生其心。</title>
+  <title>邢景龙的博客</title>
   
-  <subtitle>邢景龙的博客</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2023-11-01T07:32:52.735Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://xingjinglong.cn/atom.xml" rel="self"/>
+  
+  <link href="https://xingjinglong.cn/"/>
+  <updated>2023-11-01T13:36:26.660Z</updated>
+  <id>https://xingjinglong.cn/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Xing Jinglong</name>
     
   </author>
   
@@ -18,31 +18,65 @@
   
   <entry>
     <title>实践论</title>
-    <link href="http://example.com/2023/11/01/%E5%AE%9E%E8%B7%B5%E8%AE%BA/"/>
-    <id>http://example.com/2023/11/01/%E5%AE%9E%E8%B7%B5%E8%AE%BA/</id>
+    <link href="https://xingjinglong.cn/2023/11/01/%E5%AE%9E%E8%B7%B5%E8%AE%BA/"/>
+    <id>https://xingjinglong.cn/2023/11/01/%E5%AE%9E%E8%B7%B5%E8%AE%BA/</id>
     <published>2023-11-01T07:32:07.000Z</published>
-    <updated>2023-11-01T07:32:52.735Z</updated>
+    <updated>2023-11-01T13:36:26.660Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1&gt;实践论&lt;/h1&gt;
-&lt;center&gt;论认识和实践的关系——知和行的关系&lt;/center&gt;
+    <summary type="html">&lt;center&gt;论认识和实践的关系——知和行的关系&lt;/center&gt;
 &lt;center&gt;一九三七年七月&lt;/center&gt;
-&lt;p&gt;[toc]&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;​		在中国共产党内，曾经有一部分教条主义的同志长期拒绝中国革命的经验，否认“马克思主义不是</summary>
+&lt;p&gt;​		在中国共产党内，曾经有一部分教条主义的同志长期拒绝中国革命的经验，否认“马克思主义不是教条而是行动的指南”这个真理，而只生吞活剥马克思主义书籍中的只</summary>
         
       
     
     
     
-    <category term="哲学" scheme="http://example.com/categories/%E5%93%B2%E5%AD%A6/"/>
+    <category term="哲学" scheme="https://xingjinglong.cn/categories/%E5%93%B2%E5%AD%A6/"/>
     
     
-    <category term="哲学" scheme="http://example.com/tags/%E5%93%B2%E5%AD%A6/"/>
+    <category term="哲学" scheme="https://xingjinglong.cn/tags/%E5%93%B2%E5%AD%A6/"/>
+    
+    <category term="毛选" scheme="https://xingjinglong.cn/tags/%E6%AF%9B%E9%80%89/"/>
+    
+    <category term="终身学习" scheme="https://xingjinglong.cn/tags/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>矛盾论</title>
+    <link href="https://xingjinglong.cn/2023/11/01/%E7%9F%9B%E7%9B%BE%E8%AE%BA/"/>
+    <id>https://xingjinglong.cn/2023/11/01/%E7%9F%9B%E7%9B%BE%E8%AE%BA/</id>
+    <published>2023-11-01T07:32:07.000Z</published>
+    <updated>2023-11-01T13:29:03.670Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;矛盾论&lt;/h1&gt;
+&lt;center&gt;一九三七年八月&lt;/center&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这篇哲学论文，是毛泽东继《实践论》之后，为了同一的目的，即为了克服存在于中国共产党内的严重的教条主义思想而写的，曾在延安的抗日军事政治大学作过讲演。在收入本书第一</summary>
+        
+      
+    
+    
+    
+    <category term="哲学" scheme="https://xingjinglong.cn/categories/%E5%93%B2%E5%AD%A6/"/>
+    
+    
+    <category term="哲学" scheme="https://xingjinglong.cn/tags/%E5%93%B2%E5%AD%A6/"/>
+    
+    <category term="毛选" scheme="https://xingjinglong.cn/tags/%E6%AF%9B%E9%80%89/"/>
+    
+    <category term="终身学习" scheme="https://xingjinglong.cn/tags/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
