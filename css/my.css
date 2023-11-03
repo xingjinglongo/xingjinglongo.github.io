@@ -1,0 +1,13 @@
+@font-face{
+    font-family: '汉仪金陵刻经体';
+    src: url('../diy-font/汉仪金陵刻经体.ttf');   
+}
+
+@font-face{
+    font-family: '宋刻本字体';
+    src: url('../diy-font/宋刻本字体.ttf');   
+}
+
+#subtitle {
+    font-family: '宋刻本字体';
+}
