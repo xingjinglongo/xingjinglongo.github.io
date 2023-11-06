@@ -6,7 +6,7 @@
   <link href="https://xingjinglong.cn/atom.xml" rel="self"/>
   
   <link href="https://xingjinglong.cn/"/>
-  <updated>2023-11-06T08:18:09.580Z</updated>
+  <updated>2023-11-06T08:20:46.451Z</updated>
   <id>https://xingjinglong.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://xingjinglong.cn/2023/11/06/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/"/>
     <id>https://xingjinglong.cn/2023/11/06/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2/</id>
     <published>2023-11-06T08:17:07.000Z</published>
-    <updated>2023-11-06T08:18:09.580Z</updated>
+    <updated>2023-11-06T08:20:46.451Z</updated>
     
     
       
@@ -39,7 +39,9 @@
     <category term="历史" scheme="https://xingjinglong.cn/categories/%E5%8E%86%E5%8F%B2/"/>
     
     
-    <category term="历史，中国历史" scheme="https://xingjinglong.cn/tags/%E5%8E%86%E5%8F%B2%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2/"/>
+    <category term="历史" scheme="https://xingjinglong.cn/tags/%E5%8E%86%E5%8F%B2/"/>
+    
+    <category term="中国历史" scheme="https://xingjinglong.cn/tags/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2/"/>
     
   </entry>
   
