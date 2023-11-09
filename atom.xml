@@ -73,9 +73,9 @@
     
     <category term="艺术" scheme="https://xingjinglong.cn/tags/%E8%89%BA%E6%9C%AF/"/>
     
-    <category term="音乐" scheme="https://xingjinglong.cn/tags/%E9%9F%B3%E4%B9%90/"/>
-    
     <category term="榜单" scheme="https://xingjinglong.cn/tags/%E6%A6%9C%E5%8D%95/"/>
+    
+    <category term="音乐" scheme="https://xingjinglong.cn/tags/%E9%9F%B3%E4%B9%90/"/>
     
   </entry>
   
@@ -162,9 +162,9 @@
     
     <category term="艺术" scheme="https://xingjinglong.cn/tags/%E8%89%BA%E6%9C%AF/"/>
     
-    <category term="榜单" scheme="https://xingjinglong.cn/tags/%E6%A6%9C%E5%8D%95/"/>
-    
     <category term="电影" scheme="https://xingjinglong.cn/tags/%E7%94%B5%E5%BD%B1/"/>
+    
+    <category term="榜单" scheme="https://xingjinglong.cn/tags/%E6%A6%9C%E5%8D%95/"/>
     
   </entry>
   
@@ -219,11 +219,11 @@
     <category term="文学" scheme="https://xingjinglong.cn/categories/%E6%96%87%E5%AD%A6/"/>
     
     
+    <category term="毛选" scheme="https://xingjinglong.cn/tags/%E6%AF%9B%E9%80%89/"/>
+    
     <category term="文学" scheme="https://xingjinglong.cn/tags/%E6%96%87%E5%AD%A6/"/>
     
     <category term="诗词" scheme="https://xingjinglong.cn/tags/%E8%AF%97%E8%AF%8D/"/>
-    
-    <category term="毛选" scheme="https://xingjinglong.cn/tags/%E6%AF%9B%E9%80%89/"/>
     
   </entry>
   
