@@ -522,8 +522,8 @@
         <category>宗教</category>
       </categories>
       <tags>
-        <tag>宗教</tag>
         <tag>悟道</tag>
+        <tag>宗教</tag>
       </tags>
   </entry>
   <entry>
@@ -608,8 +608,8 @@
         <category>宗教</category>
       </categories>
       <tags>
-        <tag>宗教</tag>
         <tag>悟道</tag>
+        <tag>宗教</tag>
       </tags>
   </entry>
   <entry>
@@ -3840,9 +3840,9 @@
         <category>文学</category>
       </categories>
       <tags>
+        <tag>毛选</tag>
         <tag>文学</tag>
         <tag>诗词</tag>
-        <tag>毛选</tag>
       </tags>
   </entry>
   <entry>
@@ -4341,10 +4341,10 @@
         <category>哲学</category>
       </categories>
       <tags>
-        <tag>悟道</tag>
         <tag>哲学</tag>
         <tag>毛选</tag>
         <tag>终身学习</tag>
+        <tag>悟道</tag>
       </tags>
   </entry>
   <entry>
@@ -4483,10 +4483,10 @@
         <category>哲学</category>
       </categories>
       <tags>
-        <tag>悟道</tag>
         <tag>哲学</tag>
         <tag>毛选</tag>
         <tag>终身学习</tag>
+        <tag>悟道</tag>
       </tags>
   </entry>
 </search>
