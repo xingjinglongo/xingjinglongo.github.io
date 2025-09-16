@@ -6,7 +6,7 @@
   <link href="https://xingjinglong.cn/atom.xml" rel="self"/>
   
   <link href="https://xingjinglong.cn/"/>
-  <updated>2025-09-16T16:36:23.791Z</updated>
+  <updated>2025-09-16T16:58:24.860Z</updated>
   <id>https://xingjinglong.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://xingjinglong.cn/2025/05/10/%E5%8D%AB%E6%96%AF%E7%90%86%E7%B3%BB%E5%88%97/"/>
     <id>https://xingjinglong.cn/2025/05/10/%E5%8D%AB%E6%96%AF%E7%90%86%E7%B3%BB%E5%88%97/</id>
     <published>2025-05-10T13:40:47.000Z</published>
-    <updated>2025-09-16T16:36:23.791Z</updated>
+    <updated>2025-09-16T16:58:24.860Z</updated>
     
     
       
@@ -35,12 +35,12 @@
     
     
     
-    <category term="小说" scheme="https://xingjinglong.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="类型小说" scheme="https://xingjinglong.cn/categories/%E7%B1%BB%E5%9E%8B%E5%B0%8F%E8%AF%B4/"/>
     
-    <category term="故事大纲" scheme="https://xingjinglong.cn/categories/%E5%B0%8F%E8%AF%B4/%E6%95%85%E4%BA%8B%E5%A4%A7%E7%BA%B2/"/>
+    <category term="故事大纲" scheme="https://xingjinglong.cn/categories/%E7%B1%BB%E5%9E%8B%E5%B0%8F%E8%AF%B4/%E6%95%85%E4%BA%8B%E5%A4%A7%E7%BA%B2/"/>
     
     
-    <category term="小说" scheme="https://xingjinglong.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="类型小说" scheme="https://xingjinglong.cn/tags/%E7%B1%BB%E5%9E%8B%E5%B0%8F%E8%AF%B4/"/>
     
     <category term="故事大纲" scheme="https://xingjinglong.cn/tags/%E6%95%85%E4%BA%8B%E5%A4%A7%E7%BA%B2/"/>
     
@@ -53,7 +53,7 @@
     <link href="https://xingjinglong.cn/2025/04/12/%E9%AC%BC%E5%90%B9%E7%81%AF/"/>
     <id>https://xingjinglong.cn/2025/04/12/%E9%AC%BC%E5%90%B9%E7%81%AF/</id>
     <published>2025-04-12T13:40:47.000Z</published>
-    <updated>2025-09-16T16:30:02.167Z</updated>
+    <updated>2025-09-16T16:58:32.919Z</updated>
     
     
       
@@ -67,12 +67,12 @@
     
     
     
-    <category term="小说" scheme="https://xingjinglong.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="类型小说" scheme="https://xingjinglong.cn/categories/%E7%B1%BB%E5%9E%8B%E5%B0%8F%E8%AF%B4/"/>
     
-    <category term="故事大纲" scheme="https://xingjinglong.cn/categories/%E5%B0%8F%E8%AF%B4/%E6%95%85%E4%BA%8B%E5%A4%A7%E7%BA%B2/"/>
+    <category term="故事大纲" scheme="https://xingjinglong.cn/categories/%E7%B1%BB%E5%9E%8B%E5%B0%8F%E8%AF%B4/%E6%95%85%E4%BA%8B%E5%A4%A7%E7%BA%B2/"/>
     
     
-    <category term="小说" scheme="https://xingjinglong.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="类型小说" scheme="https://xingjinglong.cn/tags/%E7%B1%BB%E5%9E%8B%E5%B0%8F%E8%AF%B4/"/>
     
     <category term="故事大纲" scheme="https://xingjinglong.cn/tags/%E6%95%85%E4%BA%8B%E5%A4%A7%E7%BA%B2/"/>
     
@@ -103,11 +103,11 @@
     <category term="道教" scheme="https://xingjinglong.cn/categories/%E5%AE%97%E6%95%99/%E9%81%93%E6%95%99/"/>
     
     
+    <category term="悟道" scheme="https://xingjinglong.cn/tags/%E6%82%9F%E9%81%93/"/>
+    
     <category term="宗教" scheme="https://xingjinglong.cn/tags/%E5%AE%97%E6%95%99/"/>
     
     <category term="道教" scheme="https://xingjinglong.cn/tags/%E9%81%93%E6%95%99/"/>
-    
-    <category term="悟道" scheme="https://xingjinglong.cn/tags/%E6%82%9F%E9%81%93/"/>
     
   </entry>
   
@@ -134,11 +134,11 @@
     <category term="道教" scheme="https://xingjinglong.cn/categories/%E5%AE%97%E6%95%99/%E9%81%93%E6%95%99/"/>
     
     
+    <category term="悟道" scheme="https://xingjinglong.cn/tags/%E6%82%9F%E9%81%93/"/>
+    
     <category term="宗教" scheme="https://xingjinglong.cn/tags/%E5%AE%97%E6%95%99/"/>
     
     <category term="道教" scheme="https://xingjinglong.cn/tags/%E9%81%93%E6%95%99/"/>
-    
-    <category term="悟道" scheme="https://xingjinglong.cn/tags/%E6%82%9F%E9%81%93/"/>
     
   </entry>
   
@@ -225,9 +225,9 @@
     <category term="宗教" scheme="https://xingjinglong.cn/categories/%E5%AE%97%E6%95%99/"/>
     
     
-    <category term="宗教" scheme="https://xingjinglong.cn/tags/%E5%AE%97%E6%95%99/"/>
-    
     <category term="悟道" scheme="https://xingjinglong.cn/tags/%E6%82%9F%E9%81%93/"/>
+    
+    <category term="宗教" scheme="https://xingjinglong.cn/tags/%E5%AE%97%E6%95%99/"/>
     
   </entry>
   
@@ -254,9 +254,9 @@
     <category term="佛教" scheme="https://xingjinglong.cn/categories/%E5%AE%97%E6%95%99/%E4%BD%9B%E6%95%99/"/>
     
     
-    <category term="宗教" scheme="https://xingjinglong.cn/tags/%E5%AE%97%E6%95%99/"/>
-    
     <category term="悟道" scheme="https://xingjinglong.cn/tags/%E6%82%9F%E9%81%93/"/>
+    
+    <category term="宗教" scheme="https://xingjinglong.cn/tags/%E5%AE%97%E6%95%99/"/>
     
     <category term="佛教" scheme="https://xingjinglong.cn/tags/%E4%BD%9B%E6%95%99/"/>
     
@@ -410,13 +410,13 @@
     <category term="哲学" scheme="https://xingjinglong.cn/categories/%E5%93%B2%E5%AD%A6/"/>
     
     
-    <category term="悟道" scheme="https://xingjinglong.cn/tags/%E6%82%9F%E9%81%93/"/>
-    
     <category term="哲学" scheme="https://xingjinglong.cn/tags/%E5%93%B2%E5%AD%A6/"/>
     
     <category term="毛选" scheme="https://xingjinglong.cn/tags/%E6%AF%9B%E9%80%89/"/>
     
     <category term="终身学习" scheme="https://xingjinglong.cn/tags/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="悟道" scheme="https://xingjinglong.cn/tags/%E6%82%9F%E9%81%93/"/>
     
   </entry>
   
@@ -445,13 +445,13 @@
     <category term="哲学" scheme="https://xingjinglong.cn/categories/%E5%93%B2%E5%AD%A6/"/>
     
     
-    <category term="悟道" scheme="https://xingjinglong.cn/tags/%E6%82%9F%E9%81%93/"/>
-    
     <category term="哲学" scheme="https://xingjinglong.cn/tags/%E5%93%B2%E5%AD%A6/"/>
     
     <category term="毛选" scheme="https://xingjinglong.cn/tags/%E6%AF%9B%E9%80%89/"/>
     
     <category term="终身学习" scheme="https://xingjinglong.cn/tags/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="悟道" scheme="https://xingjinglong.cn/tags/%E6%82%9F%E9%81%93/"/>
     
   </entry>
   
